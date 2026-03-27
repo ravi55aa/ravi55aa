@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ravi A chill devbi</h1>
+<h1 align="center">Hi, I'm Ravi a dev zombie</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 🚀 Frontend
 
-* React.js
+* React.js | jQuery | reactRouter  
 * Typescript
 * Tailwind CSS
 * Framer Motion
@@ -30,6 +30,7 @@
 * Node.js
 * Express.js
 * bun.js
+* python
 
 ### 🗄️ Database
 
@@ -44,7 +45,7 @@
 * Postman
 * Docker
 * Kubernate
-* Swagger
+* Swagger 
 
 ### 👩🏾‍💻 Language
 
